@@ -1,0 +1,28 @@
+{
+  "name": "enimomnis",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Curve25519",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WymanMills/enimomnis.git"
+  },
+  "author": "SoniaBoyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WymanMills/enimomnis.git/issues"
+  },
+  "keywords": [
+    "sign",
+    "sunt",
+    "quia",
+    "ed25519"
+  ],
+  "devDependencies": {
+    "@types/node": "^12.6.9",
+    "prettier": "^1.18.2",
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.5.3"
+  }
+}
